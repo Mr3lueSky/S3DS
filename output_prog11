@@ -1,0 +1,123 @@
+//                       Input Restricter                     //
+2. Output restricted
+1. Input restricted
+1
+MENU
+1.Insertion
+2.Deletion(back)
+3.Deletion(front)
+4.Display
+5.Exit
+enter your choice: 1
+Enter the element: 1
+Elements:
+1
+
+enter your choice: 1
+Enter the element: 2
+
+enter your choice: 1
+Enter the element: 3
+
+enter your choice: 1
+Enter the element: 4
+
+enter your choice: 1
+Enter the element: 5
+
+enter your choice: 1
+The queue is full.
+enter your choice: 4
+Elements:
+1 2 3 4 5
+
+enter your choice: 2
+Deleted element is 1
+enter your choice: 4
+Elements:
+2 3 4 5
+
+enter your choice: 3
+Deleted element is 5
+enter your choice: 4
+Elements:
+2 3 4
+
+enter your choice: 2
+Deleted element is 2
+enter your choice: 3
+Deleted element is 4
+enter your choice: 2
+Deleted element is 3
+enter your choice: 2
+Queue is empty
+enter your choice: 4
+The queue is empty
+enter your choice: 5
+
+
+//                     Output Restricted                     //
+
+2. Output restricted
+1. Input restricted
+2
+MENU
+1.Insertion(front)
+2.Insertion(back)
+3.Deletion
+4.Display
+5.Exit
+enter your choice: 1
+enter the element: 1
+
+enter your choice: 1
+Insertion not possible.
+enter your choice: 2
+Enter the element: 2
+
+enter your choice: 2
+Enter the element: 3
+
+enter your choice: 2
+Enter the element: 4
+
+enter your choice: 2
+Enter the element: 5
+
+enter your choice: 2
+The queue is full.
+enter your choice: 4
+Elements:
+1 2 3 4 5
+
+enter your choice: 3
+Deleted element is 1
+enter your choice: 4
+Elements:
+2 3 4 5
+
+enter your choice: 3
+Deleted element is 2
+enter your choice: 1
+Enter the element: 6
+
+enter your choice: 1
+Enter the element: 7
+
+enter your choice: 4
+Elements:
+7 6 3 4 5
+
+enter your choice: 3
+Deleted element is 7
+enter your choice: 3
+Deleted element is 6
+enter your choice: 3
+Deleted element is 3
+enter your choice: 3
+Deleted element is 4
+enter your choice: 3
+Deleted element is 5
+enter your choice: 3
+Queue is empty
+enter your choice: 5
