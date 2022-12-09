@@ -1,0 +1,9 @@
+Output 1
+Enter the number of elements:5
+Enter the elements:12 34 56 1 12
+The sorted elements are:1 12 12 34 56
+
+Output 2
+Enter the number of elements:7               
+Enter the elements:34 56 12 22 11 3 9
+The sorted elements are:3 9 11 12 22 34 56
